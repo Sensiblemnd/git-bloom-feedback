@@ -36,7 +36,7 @@ For a comprehensive breakdown of the mechanics, mechanics formulas, and plant be
 
 We want to make Git Bloom as stable and polished as possible! Because this main game engine code is kept in a private repository, we track issues externally to protect our source files.
 
-If you encounter any bugs, glitches, or visual issues, please visit our **[Public Bug Tracker](YOUR_PUBLIC_FEEDBACK_REPO_LINK_HERE)** to submit an issue. 
+If you encounter any bugs, glitches, or visual issues, please visit our **[Public Bug Tracker](https://github.com/Sensiblemnd/git-bloom-feedback/issues)** to submit an issue. 
 
 ### How to report an issue:
 1. Navigate to the **Issues** tab on our public feedback repo.
